@@ -1,2 +1,2 @@
 # DataStructureAlgo
-Just trying to understand Data Structure and Algorithims from Youtube and implement in Python programming language.
+Just trying to understand Data Structure and Algorithims from Youtube and implement it in  Python programming language.
